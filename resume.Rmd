@@ -1,0 +1,38 @@
+---
+title: "Untitled"
+author: "Yufei Wang"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: journal
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Yufei Wang
+
+## Contact Information
+- Email: ywang654@uic.edu
+- Phone: 312-978-4304
+
+
+## Education
+- **MSCA**
+  - University of illinois Chicago
+  - GPA: 3.5/4.0
+
+## Work Experience
+- **Teaching Assistant** at New Oriental Company (2019 - 2023)
+  - Assisted in preparing and delivering engaging lesson plans for various subjects, ensuring a stimulating learning environment for students.
+  - Provided individualized support to students, addressing their specific needs and helping them achieve their academic goals.
+  - Collaborated with lead teachers to evaluate students' progress and implement effective teaching strategies.
+  - Utilized multimedia tools and educational software to enhance the learning experience and keep students engaged.
+  - Organized and participated in extracurricular activities, fostering a sense of community and promoting students' holistic development.
+  - Maintained open communication with parents and guardians, providing regular updates on students' progress and addressing any concerns.
+
+## Skills
+- Programming Languages: C,C++
+- Tools: Rstudio,Visual Studio
+- 
